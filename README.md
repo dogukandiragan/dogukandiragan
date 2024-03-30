@@ -6,7 +6,7 @@
  
 - 🔭 I have experience on .Net Technologies for years working with C# and SQL
 
-- 👨‍💻 I’m good at **Windows Forms, Entity Framework, T-Sql Features, WebAPI, MVC.Net**
+- 👨‍💻 I’m good at **Windows Forms, Entity Framework, T-Sql Features, WebAPI, Web Forms and MVC.Net**
 
 - 👨‍💻 I have some skills about **ReactJS and Cloud Computing**
   
