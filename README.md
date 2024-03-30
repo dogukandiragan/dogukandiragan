@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://martinsidorov.com">Doğukan!</a></h1>
 <h3 align="center">A passionate Software Developer from Istanbul</h3>
-
+<h2 align="center">🤝 I’m looking for a full time job</h2>
  <br/>
 
  
@@ -11,8 +11,6 @@
 - 👨‍💻 I have some skills about **ReactJS and Cloud Computing**
   
 - 🌱 I’m currently improving myself **Blazor and Microservices**
-
-- 🤝 I’m looking a Full time job
 
 - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/dogukandiragan) or by [mail](mailto:dogukandiragan@hotmail.com)
 
