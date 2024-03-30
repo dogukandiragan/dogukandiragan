@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Software Developer from Istanbul</h3>
 
  <br/>
+
+ 
 - 🔭 I have experience on .Net Technologies for years working with C# and SQL
 
 - 👨‍💻 I’m good at **Windows Forms, Entity Framework, T-Sql Features, WebAPI, MVC.Net**
