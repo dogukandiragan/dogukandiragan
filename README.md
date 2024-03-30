@@ -1,3 +1,1 @@
-# dgkn
-
-thats my welcome page
+Hi 👋, I'm Doğukan
