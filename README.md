@@ -8,7 +8,7 @@
 
 - 👨‍💻 I have some skills about **ReactJS and Cloud Computing**
   
-- 🌱 I’m currently improving myself **Blazor and Microservices**
+- 🌱 I’m currently improving myself **Blazor**
 
 - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/dogukandiragan) or by [mail](mailto:dogukandiragan@hotmail.com)
 
