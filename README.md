@@ -12,10 +12,10 @@
 
 - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/dogukandiragan) or by [mail](mailto:dogukandiragan@hotmail.com)
 
-
+ <br/> <br/> <br/>
  <br/>
-
-<h3 align="left">Languages and Tools:</h3>
+<div align="center">
+<h3 >Languages and Tools:</h3>
 <a href="#" target="_blank"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1024px-Microsoft_.NET_logo.svg.png" alt="NET" width="40" height="40"/></a>  
 <a href="#" target="_blank"> 
@@ -45,7 +45,7 @@
  <a href="#" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="docker" width="40" height="40"/></a>  
 </p>
-
+</div>
 <!--<div align="center">
   <a href="https://www.buymeacoffee.com/dgkn"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="140" alt="dgkn" /></a>
 </div>-->
