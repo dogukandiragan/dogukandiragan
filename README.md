@@ -10,7 +10,9 @@
 - 👨‍💻 I have some skills about **ReactJS and Cloud Computing**
   
 - 🌱 I’m currently improving myself **Blazor**
-  
+
+- ⏱ Flexible working timezone
+    
 - 💬 Ask me about **Anything**
   
 - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/dogukandiragan) or by [mail](mailto:dogukandiragan@hotmail.com)
@@ -18,13 +20,13 @@
  <br/>
 <div align="center">
 <h3 >Languages and Tools:</h3>
-<a href="#" target="_blank"> 
+<a href="https://learn.microsoft.com/tr-tr/dotnet/welcome" target="_blank"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1024px-Microsoft_.NET_logo.svg.png" alt="NET" width="40" height="40"/></a>  
 <a href="#" target="_blank"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="NET_Core" width="40" height="40"/></a>  
-<a href="#" target="_blank"> 
+<a href="https://visualstudio.microsoft.com/tr/vs/getting-started/" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/></a>  
-<a href="#" target="_blank"> 
+<a href="https://code.visualstudio.com/" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>  
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" width="40" height="40"/></a> 
