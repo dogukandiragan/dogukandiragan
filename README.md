@@ -9,7 +9,7 @@
 
 - 👨‍💻 I have some skills about **ReactJS and Cloud Computing**
   
-- 🌱 I’m currently improving myself **Blazor**
+<!-- - 🌱 I’m currently improving myself **Blazor** -->
 
 - ⏱ Flexible working timezone
     
