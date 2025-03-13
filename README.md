@@ -3,7 +3,7 @@
 <h2 align="center">🤝 I’m Open to Job Opportunities</h2>
  <br/>
  
-- 🔭 I have experience on .Net Technologies for years working with C# and SQL
+- 🔭 I have experience on .Net Technologies and .Net Core for years working with C# and SQL
 
 - 👨‍💻 I’m good at **Windows Forms, Entity Framework, T-Sql Features, WebAPI, Web Forms and MVC.Net**
 
