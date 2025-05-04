@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m good at **Windows Forms, Entity Framework, T-Sql Features, WebAPI, Web Forms and MVC.Net**
 
-- 👨‍💻 I have some skills about **ReactJS and Cloud Computing**
+- 👨‍💻 I have some skills about **ReactJS, React Native and Cloud Computing**
   
 <!-- - 🌱 I’m currently improving myself **Blazor** -->
 
