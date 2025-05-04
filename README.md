@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm <a href="https://martinsidorov.com">Doğukan!</a></h1>
+<h1 align="center">Hello, I'm <a href="https://www.dgkn.net">Doğukan!</a></h1>
 <h3 align="center">A passionate Software Developer from Istanbul</h3>
 <h2 align="center">🤝 I’m Open to Job Opportunities</h2>
  <br/>
